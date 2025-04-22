@@ -38,13 +38,6 @@ img{
     width: 25% 
 } 
 
-.centered {
-         display: flex;
-         justify-content: center;
-         align-items: center;
- }
-    
-
 nav{ 
     background-color: lightgray; 
     padding: 10px; 
